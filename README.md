@@ -27,8 +27,10 @@ Execution of some tasks assigned to me in the Jitu training
 
 What will be logged to the console from the below expression. explain why.
 
-<js>
+```js
 let sum = 5+ 5+"5";
 
 console.log(sum);
-<js>
+```
+
+ 
